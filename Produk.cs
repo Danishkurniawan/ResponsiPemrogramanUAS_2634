@@ -10,7 +10,7 @@ namespace ProdukSaya
         // PERINTAH: lengkapi property class produk, sesuai petunjuk soal
         public string PG_produk { get; set; }
         public string Nama_produk { get; set; }
-        public double Harga_beliproduk { get; set; }
-        public double Harga_jualproduk { get; set; }
+        public double Harga_belibarang { get; set; }
+        public double Harga_jualbarang { get; set; }
     }
 }
